@@ -1,1 +1,1 @@
-# recipes
+a website collecting my favorite baking recipes
